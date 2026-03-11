@@ -94,5 +94,5 @@
 <details>
 <summary><a href="#"><img src="https://img.shields.io/badge/licence-CLA-orange?style=for-the-badge" alt="CLA"></a></summary>
 
->Весь код, относящийся к Sunrise или Fire Station, а также ассеты Sunrise или Fire Station, защищены лицензией [CLA](https://github.com/space-sunrise/space-station-14/blob/master/CLA.txt).
+>Весь код, относящийся к Sunrise или SCP: Project Fire(Fire Station), а также ассеты Sunrise или SCP: Project Fire(Fire Station), защищены лицензией [CLA](https://github.com/space-sunrise/space-station-14/blob/master/CLA.txt).
 </details>
